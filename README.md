@@ -1,2 +1,2 @@
 # rescence
-A web browser made (mostly) in ytho
+A web browser made (mostly) in Python
